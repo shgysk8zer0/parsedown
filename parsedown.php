@@ -12,7 +12,7 @@
 # with this source code.
 #
 #
-
+namespace Parsedown;
 class Parsedown
 {
     # ~
